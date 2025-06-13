@@ -2,9 +2,6 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/stocco._/)
 
-
-![Matheus Stocco's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusSdeO&show_icons=true&theme=radical)
-
 ### Meus conhecimentos
 
 <div style="display: inline)block"><br/>
