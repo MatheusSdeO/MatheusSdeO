@@ -18,7 +18,7 @@
 
 ### Minhas formações academicas
 
--  Gestão de tecnologia da informação - Cursando(PUCPR)
--  Analise e desenvolvimento de sistemas - Completo(SENAI)
+-  Gestão de tecnologia da informação - (PUCPR)
+-  Analise e desenvolvimento de sistemas - (SENAI)
 
 
