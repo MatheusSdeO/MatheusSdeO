@@ -1,8 +1,8 @@
 # 👨‍💻 Olá, eu sou o Matheus Stocco
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/matheus-stocco-oliveira-97a6b1242)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/stocco._/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheustoccoliveira@gmail.com)
 [![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=about.me&logoColor=white)](https://seudominio.com)
 
 Sou apaixonado por tecnologia e inovação, com formação em Gestão de TI e Análise de Sistemas. Atualmente, busco oportunidades para aplicar meus conhecimentos em desenvolvimento de software, análise de dados e arquitetura de sistemas. Gosto de resolver problemas complexos com soluções eficientes e bem estruturadas.
